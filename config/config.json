@@ -1,0 +1,8 @@
+"config":{
+  "override":true,
+  "other":{
+    "server_side_override":{
+      "script":"function initSSO(bool){\n if(sso != true)}{}else{}\n }"
+    }
+  }
+}
